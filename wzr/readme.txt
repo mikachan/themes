@@ -1,4 +1,4 @@
-=== SZNZ ===
+=== WZR ===
 Contributors: Sarah Norris
 Requires at least: 6.0
 Tested up to: 6.0
@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A theme inspired by Weezer's SZNZ project.
+A theme inspired by Weezer albums.
 
 == Changelog ==
 
@@ -17,8 +17,8 @@ A theme inspired by Weezer's SZNZ project.
 
 == Copyright ==
 
-SZNZ WordPress Theme, (C) 2022 Sarah Norris
-SZNZ is distributed under the terms of the GNU GPL.
+WZR WordPress Theme, (C) 2022 Sarah Norris
+WZR is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
