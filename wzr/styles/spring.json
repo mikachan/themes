@@ -1,0 +1,36 @@
+{
+    "title": "SZNZ: Spring",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#81ab3c",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#112912",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#afca9f",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#f6f6f6",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		}
+    },
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2
+}
