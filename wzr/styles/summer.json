@@ -1,0 +1,36 @@
+{
+    "title": "SZNZ: Summer",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#8a2531",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#ffffff",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#e29b7c",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#cd5840",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#f6f6f6",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		}
+    },
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2
+}
