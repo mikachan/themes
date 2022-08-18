@@ -108,6 +108,11 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/navigation": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
 			"core/navigation-link": {
 				"elements": {
 					"link": {
