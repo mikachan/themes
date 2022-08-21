@@ -58,6 +58,31 @@
 				{
 					"fontFace": [
 						{
+							"fontFamily": "Amatic SC",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/amatic-sc/AmaticSC-Regular.woff2"
+							]
+						},
+						{
+							"fontFamily": "Amatic SC",
+							"fontStretch": "normal",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/amatic-sc/AmaticSC-Bold.woff2"
+							]
+						}
+					],
+					"fontFamily": "\"Amatic SC\", sans-serif",
+					"name": "Amatic SC",
+					"slug": "amatic-sc"
+				},
+				{
+					"fontFace": [
+						{
 							"fontFamily": "Zen Kaku Gothic Antique",
 							"fontStretch": "normal",
 							"fontStyle": "normal",
