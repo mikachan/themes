@@ -1,7 +1,7 @@
 === Kaze ===
-Contributors: Sarah norris
-Requires at least: 5.8
-Tested up to: 5.9
+Contributors: Sarah Norris
+Requires at least: 6.1
+Tested up to: 6.1
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,12 +12,12 @@ A base theme for WordPress using TailwindCSS. Uses TailwindCSS Node.js package f
 
 == Changelog ==
 
-= 0.0.1 =
+= 1.0.0 =
 * Initial release
 
 == Copyright ==
 
-Kaze WordPress Theme, (C) 2022 Sarah norris
+Kaze WordPress Theme, (C) 2022 Sarah Norris
 Kaze is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
