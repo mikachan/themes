@@ -1,0 +1,16 @@
+{
+  "name": "kaze",
+  "version": "1.0.0",
+  "description": "A base theme for WordPress using TailwindCSS. Uses TailwindCSS Node.js package for treeshaking unused CSS classes.",
+  "main": "index.html",
+  "scripts": {
+    "build": "npx tailwindcss -i ./tailwind.css -o ./output.css --minify",
+    "dev": "npx tailwindcss -i ./tailwind.css -o ./output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah Norris",
+  "license": "GPLv2",
+  "devDependencies": {
+    "tailwindcss": "^3.2.2"
+  }
+}
