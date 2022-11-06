@@ -15,4 +15,4 @@ Text Domain: kaze
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, rtl-language-support, theme-options, threaded-comments, translation-ready
 */
 
-@import './output.css';
+@import 'output.css';
