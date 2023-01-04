@@ -17,7 +17,7 @@ A theme inspired by Weezer albums.
 
 == Copyright ==
 
-WZR WordPress Theme, (C) 2022 Sarah Norris
+WZR WordPress Theme, (C) 2023 Sarah Norris
 WZR is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify

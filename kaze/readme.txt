@@ -17,7 +17,7 @@ A base theme for WordPress using TailwindCSS. Uses TailwindCSS Node.js package f
 
 == Copyright ==
 
-Kaze WordPress Theme, (C) 2022 Sarah Norris
+Kaze WordPress Theme, (C) 2023 Sarah Norris
 Kaze is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
