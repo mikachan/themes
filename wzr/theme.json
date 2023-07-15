@@ -354,7 +354,8 @@
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--zen-kaku-gothic-antique)",
 			"fontSize": "var(--wp--preset--font-size--medium)",
-			"lineHeight": "1.6"
+			"lineHeight": "1.6",
+			"textTransform": "lowercase"
 		}
 	},
 	"templateParts": [
