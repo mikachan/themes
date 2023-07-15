@@ -25,6 +25,30 @@
 			]
 		}
 	},
+	"styles": {
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--black)",
+					"text": "var(--wp--preset--color--white)"
+				}
+			}
+		},
+		"spacing": {
+            "blockGap": "1.5rem",
+            "padding": {
+                "top": "var(--wp--preset--spacing--50)",
+                "bottom": "var(--wp--preset--spacing--50)",
+                "right": "var(--wp--preset--spacing--50)",
+                "left": "var(--wp--preset--spacing--50)"
+            }
+        },
+        "typography": {
+            "fontFamily": "var(--wp--preset--font-family--system-font)",
+            "fontSize": "var(--wp--preset--font-size--medium)",
+            "lineHeight": "1.6"
+        }
+	},
 	"templateParts": [
 		{
 			"area": "header",
