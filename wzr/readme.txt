@@ -8,7 +8,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A theme inspired by Weezer albums.
+A theme inspired by Weezer.
 
 == Changelog ==
 
