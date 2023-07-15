@@ -279,6 +279,11 @@
 					"fontSize": "var(--wp--preset--font-size--medium)"
 				}
 			},
+			"caption": {
+				"color": {
+					"text": "var(--wp--preset--color--tertiary)"
+				}
+			},
 			"h1": {
 				"typography": {
 					"fontSize": "3.625rem",
