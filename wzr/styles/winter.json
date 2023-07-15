@@ -1,0 +1,36 @@
+{
+    "title": "SZNZ: Winter",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#fafafa",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#242424",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#444446",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#87888c",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#c9cfda",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		}
+    },
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2
+}

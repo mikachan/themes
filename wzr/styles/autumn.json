@@ -1,0 +1,36 @@
+{
+    "title": "SZNZ: Autumn",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#091019",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#f0e3f5",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#6f759d",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#433e3c",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#514a66",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				}
+			]
+		}
+    },
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2
+}
