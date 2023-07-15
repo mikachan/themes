@@ -36,10 +36,10 @@
 		},
 		"spacing": {
 			"spacingScale": {
-				"operator": "+",
 				"increment": 0.5,
-				"steps": 7,
 				"mediumStep": 2.5,
+				"operator": "+",
+				"steps": 7,
 				"unit": "rem"
 			},
 			"units": [
@@ -141,12 +141,12 @@
 			"core/navigation-link": {
 				"elements": {
 					"link": {
-						":hover": {
+						":focus": {
 							"typography": {
 								"textDecoration": "underline"
 							}
 						},
-						":focus": {
+						":hover": {
 							"typography": {
 								"textDecoration": "underline"
 							}
@@ -162,6 +162,13 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
+			"core/post-comments": {
+				"spacing": {
+					"padding": {
+						"top": "var(--wp--preset--spacing--40)"
+					}
+				}
+			},
 			"core/post-content": {
 				"elements": {
 					"link": {
@@ -171,28 +178,21 @@
 					}
 				}
 			},
-			"core/post-comments": {
-				"spacing": {
-					"padding": {
-						"top": "var(--wp--preset--spacing--40)"
-					}
-				}
-			},
-			"core/post-excerpt": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--small)"
-				}
-			},
 			"core/post-date": {
-				"typography": {
-					"fontWeight": "400"
-				},
 				"elements": {
 					"link": {
 						"typography": {
 							"textDecoration": "none"
 						}
 					}
+				},
+				"typography": {
+					"fontWeight": "400"
+				}
+			},
+			"core/post-excerpt": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
 			"core/post-terms": {
@@ -201,16 +201,16 @@
 				}
 			},
 			"core/post-title": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--large)",
-					"fontWeight": "400"
-				},
 				"elements": {
 					"link": {
 						"typography": {
 							"textDecoration": "none"
 						}
 					}
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--large)",
+					"fontWeight": "400"
 				}
 			},
 			"core/pullquote": {
@@ -219,16 +219,16 @@
 				}
 			},
 			"core/query-pagination": {
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--small)",
-					"fontWeight": "400"
-				},
 				"elements": {
 					"link": {
 						"typography": {
 							"textDecoration": "none"
 						}
 					}
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)",
+					"fontWeight": "400"
 				}
 			},
 			"core/quote": {
@@ -250,17 +250,7 @@
 		},
 		"elements": {
 			"button": {
-				"border": {
-					"radius": "0"
-				},
-				"color": {
-					"background": "var(--wp--preset--color--primary)",
-					"text": "var(--wp--preset--color--contrast)"
-				},
-				"typography": {
-					"fontSize": "var(--wp--preset--font-size--medium)"
-				},
-				":hover": {
+				":active": {
 					"color": {
 						"background": "var(--wp--preset--color--contrast)",
 						"text": "var(--wp--preset--color--base)"
@@ -272,11 +262,21 @@
 						"text": "var(--wp--preset--color--base)"
 					}
 				},
-				":active": {
+				":hover": {
 					"color": {
 						"background": "var(--wp--preset--color--contrast)",
 						"text": "var(--wp--preset--color--base)"
 					}
+				},
+				"border": {
+					"radius": "0"
+				},
+				"color": {
+					"background": "var(--wp--preset--color--primary)",
+					"text": "var(--wp--preset--color--contrast)"
+				},
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--medium)"
 				}
 			},
 			"h1": {
@@ -322,28 +322,28 @@
 				}
 			},
 			"link": {
-				"color": {
-					"text": "var(--wp--preset--color--primary)"
+				":active": {
+					"typography": {
+						"textDecoration": "none"
+					}
 				},
 				":hover": {
 					"typography": {
 						"textDecoration": "underline dotted"
 					}
 				},
-				":active": {
-					"typography": {
-						"textDecoration": "none"
-					}
+				"color": {
+					"text": "var(--wp--preset--color--primary)"
 				}
 			}
 		},
 		"spacing": {
 			"blockGap": "1.5rem",
 			"padding": {
-				"top": "0px",
-				"right": "var(--wp--preset--spacing--40)",
 				"bottom": "0px",
-				"left": "var(--wp--preset--spacing--40)"
+				"left": "var(--wp--preset--spacing--40)",
+				"right": "var(--wp--preset--spacing--40)",
+				"top": "0px"
 			}
 		},
 		"typography": {
@@ -364,6 +364,6 @@
 			"title": "Footer"
 		}
 	],
-	"$schema": "https://schemas.wp.org/trunk/theme.json",
-	"version": 2
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json"
 }
