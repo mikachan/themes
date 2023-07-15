@@ -32,6 +32,10 @@ GNU General Public License for more details.
 
 This theme bundles the following third-party resources:
 
+"Highway Car"
+License: CC0
+Source: https://stocksnap.io/photo/highway-car-2ME4XF0CWT
+
 Amatic SC Font
 Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC) 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL 
