@@ -1,7 +1,7 @@
 === WZR ===
 Contributors: Sarah Norris
-Requires at least: 6.0
-Tested up to: 6.0
+Requires at least: 6.2
+Tested up to: 6.3-beta4
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ A theme inspired by Weezer albums.
 
 == Changelog ==
 
-= 0.0.1 =
+= 1.0.0 =
 * Initial release
 
 == Copyright ==
