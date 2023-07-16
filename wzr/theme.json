@@ -2,6 +2,16 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#0393ca",
+						"#000000"
+					],
+					"name": "Default filter",
+					"slug": "default-filter"
+				}
+			],
 			"palette": [
 				{
 					"color": "#0393ca",
@@ -133,6 +143,11 @@
 	},
 	"styles": {
 		"blocks": {
+			"core/cover": {
+				"filter": {
+					"duotone": "var(--wp--preset--duotone--default-filter)"
+				}
+			},
 			"core/navigation": {
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--small)"

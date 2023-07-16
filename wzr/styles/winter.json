@@ -2,6 +2,16 @@
     "title": "SZNZ: Winter",
 	"settings": {
 		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#fafafa",
+						"#242424"
+					],
+					"name": "Default filter",
+					"slug": "default-filter"
+				}
+			],
 			"palette": [
 				{
 					"color": "#fafafa",

@@ -2,6 +2,16 @@
     "title": "SZNZ: Summer",
 	"settings": {
 		"color": {
+			"duotone": [
+				{
+					"colors": [
+						"#e29b7c",
+						"#f6f6f6"
+					],
+					"name": "Default filter",
+					"slug": "default-filter"
+				}
+			],
 			"palette": [
 				{
 					"color": "#8a2531",
