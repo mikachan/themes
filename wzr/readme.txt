@@ -12,6 +12,9 @@ A theme inspired by Weezer.
 
 == Changelog ==
 
+= 1.0.1 =
+* Move duotone filter to theme.json
+
 = 1.0.0 =
 * Initial release
 
